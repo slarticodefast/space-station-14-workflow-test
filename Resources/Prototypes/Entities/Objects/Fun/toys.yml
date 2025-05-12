@@ -145,7 +145,7 @@
 - type: entity
   parent: PlushieGhost
   id: PlushieGhostRevenant
-  name: revenant soft toy
+  name: revenant soft toy test
   categories: [ DoNotMap ]
   description: So soft it almost makes you want to take a nap...
   components:
